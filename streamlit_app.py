@@ -1,28 +1,52 @@
 import streamlit as st
 from openai import OpenAI
-
-#from transformers import AutoModelForCausalLM, AutoTokenizer, TextStreamer
-#import os
-#from dotenv import load_dotenv, dotenv_values
+import numpy as np
+import pandas as pd
 
 
-### log into huggingface ###
-
-#load_dotenv() 
-# accessing and printing value
-#print(os.getenv("HF_API_KEY"))
+#######
 
 
-### load model and adapter
+import re
 
-#base_model_id = "meta-llama/Llama-3.2-1B"
-#peft_model_id = "ilijalichkovski/llama-3.2-1b-mk"
-#model = AutoModelForCausalLM.from_pretrained(base_model_id)
-#model.load_adapter(peft_model_id)
+def chunk_law_text(file_path):
+    """
+    Chunk a law text file into individual articles.
+    
+    Args:
+        file_path (str): Path to the .txt file containing the law text
+    
+    Returns:
+        list: A list of strings, each representing an individual article
+    """
+    # Read the entire file
+    with open(file_path, 'r', encoding='utf-8') as file:
+        full_text = file.read()
+    
+    # Use regex to split the text into articles
+    # This pattern looks for 'Article' followed by a number at the start of a line
+    # The (?=\n|\s) ensures it's followed by a newline or whitespace to avoid 
+    # catching references within the text
+    articles = re.split(r'\n(Член \d+)\n', full_text)[1:]
+    
+    # Reconstruct the articles 
+    # The split will alternate between article headers and content
+    chunked_articles = []
+    for i in range(0, len(articles), 2):
+        # Combine the article header with its content
+        if i+1 < len(articles):
+            article = articles[i] + '\n' + articles[i+1]
+            chunked_articles.append(article.strip())
+    
+    return chunked_articles
+
+articles = chunk_law_text('/content/konsolidiran_tekst.txt')
+
+#######
 
 
 # Show title and description.
-st.title("💬 Асистет за претпријатие")
+st.title("💬 Асистент за претпријатие")
 st.write(
     "Здраво! Тука имате разговорен пристап со базите на знаење во вашата организација, како и релевантните законски прописи."
 )
