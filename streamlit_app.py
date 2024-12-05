@@ -1,17 +1,38 @@
 import streamlit as st
 from openai import OpenAI
 
+#from transformers import AutoModelForCausalLM, AutoTokenizer, TextStreamer
+#import os
+#from dotenv import load_dotenv, dotenv_values
+
+
+### log into huggingface ###
+
+#load_dotenv() 
+# accessing and printing value
+#print(os.getenv("HF_API_KEY"))
+
+
+### load model and adapter
+
+#base_model_id = "meta-llama/Llama-3.2-1B"
+#peft_model_id = "ilijalichkovski/llama-3.2-1b-mk"
+#model = AutoModelForCausalLM.from_pretrained(base_model_id)
+#model.load_adapter(peft_model_id)
+
+
 # Show title and description.
-st.title("💬 Chatbot")
+st.title("💬 Асистент за претпријатие")
 st.write(
-    "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
-    "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
-    "You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
+    "Здраво! Тука имате разговорен пристап со базите на знаење во вашата организација, како и релевантните законски прописи."
 )
 
 # Ask user for their OpenAI API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
 # via `st.secrets`, see https://docs.streamlit.io/develop/concepts/connections/secrets-management
+
+
+
 openai_api_key = st.text_input("OpenAI API Key", type="password")
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
@@ -41,7 +62,7 @@ else:
 
         # Generate a response using the OpenAI API.
         stream = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {"role": m["role"], "content": m["content"]}
                 for m in st.session_state.messages
@@ -54,3 +75,13 @@ else:
         with st.chat_message("assistant"):
             response = st.write_stream(stream)
         st.session_state.messages.append({"role": "assistant", "content": response})
+
+
+
+#tok = AutoTokenizer.from_pretrained("openai-community/gpt2")
+#model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2")
+#inputs = tok(["An increasing sequence: one,"], return_tensors="pt")
+#streamer = TextStreamer(tok)
+
+# Despite returning the usual output, the streamer will also print the generated text to stdout.
+#_ = model.generate(**inputs, streamer=streamer, max_new_tokens=20)
