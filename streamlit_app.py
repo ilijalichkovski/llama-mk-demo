@@ -11,18 +11,21 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 #######
+# 
+st.image("https://raw.githubusercontent.com/ilijalichkovski/llama-mk-demo/refs/heads/main/AdminPal%20logo.png")
 
 # Show title and description.
 st.title("💬 АdminPal")
 st.write(
-    "Hi! Welcome to our demo, where we'll be showing you our intelligent assistant guiding you through the maze of RUG administration and regulations."
+    "Hi and welcome to our demo!"
 )
+st.write("We are excited to show you our intelligent assistant capable of guiding you through the maze of RUG administration and regulations.")
 
 # Ask user for their OpenAI API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
 # via `st.secrets`, see https://docs.streamlit.io/develop/concepts/connections/secrets-management
 
-with st.expander("The problem"):
+with st.expander("Background"):
     st.write('''
         RUG students often face overwhelming amounts of administrative information — from Teaching and Examination Regulations regulations to charters to graduation process instructions. 
         
@@ -30,7 +33,7 @@ with st.expander("The problem"):
 
         Nobody has the patience to painstakingly read it, so they spam administrative staff instead. 
     ''')
-    st.image("https://static.streamlit.io/examples/dice.jpg")
+    st.image("https://raw.githubusercontent.com/ilijalichkovski/llama-mk-demo/refs/heads/main/regs.png")
 
 st.header("Try it now!")
 
