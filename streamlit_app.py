@@ -22,7 +22,17 @@ st.write(
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
 # via `st.secrets`, see https://docs.streamlit.io/develop/concepts/connections/secrets-management
 
+with st.expander("The problem"):
+    st.write('''
+        RUG students often face overwhelming amounts of administrative information — from Teaching and Examination Regulations regulations to charters to graduation process instructions. 
+        
+        Look at all the links below -- this is only one part of one page detailing some relevant regulations, and it does not even contain anything on appeals & complaints, tuition, extraordinary circumstances, the Student Charter and a zillion others.
 
+        Nobody has the patience to painstakingly read it, so they spam administrative staff instead. 
+    ''')
+    st.image("https://static.streamlit.io/examples/dice.jpg")
+
+st.header("Try it now!")
 
 openai_api_key = st.secrets['OAI_token']
 if not openai_api_key:
