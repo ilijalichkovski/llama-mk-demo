@@ -24,7 +24,7 @@ st.write(
 
 
 
-openai_api_key = st.text_input("OpenAI API Key", type="password")
+openai_api_key = st.secrets['OAI_token']
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 else:
@@ -79,13 +79,16 @@ else:
 
     '''
 
-
-
+    with open('def-bsc-ter-fse-24-25.txt', 'r') as f:
+        context = f.read()
 
     # Create a session state variable to store the chat messages. This ensures that the
     # messages persist across reruns.
     if "messages" not in st.session_state:
-        st.session_state.messages = [{"role": "system", "content": system_prompt}]
+        st.session_state.messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "system", "content": context}
+            ]
 
     # Display the existing chat messages via `st.chat_message`.
     for message in st.session_state.messages:
