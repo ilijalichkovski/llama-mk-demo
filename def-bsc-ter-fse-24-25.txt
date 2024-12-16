@@ -1,0 +1,2049 @@
+                 Faculty of Science and Engineering
+
+            Teaching and Examination Regulations 2024-2025
+
+                     Bachelor’s degree programmes in:
+
+   1.    Applied Mathematics
+   2.    Applied Physics
+   3.    Artificial Intelligence
+   4.    Astronomy
+   5.    Biology
+   6.    Biomedical Engineering
+   7.    Chemical Engineering
+   8.    Chemistry
+   9.    Computing Science
+   10.   Industrial Engineering and Management Science
+   11.   Life Science and Technology
+   12.   Mathematics
+   13.   Pharmacy
+   14.   Physics
+
+These Regulations were decreed by the Board of the Faculty of Science and
+Engineering on 16 April 2024, with approval from the Faculty Council and the
+Programme Committees for the sections requiring this by law dated 20 March
+2024.
+
+The Teaching and Examination Regulations (TER, in Dutch: OER: Onderwijs-
+en Examenregeling) set out the specific rights and obligations that apply to each
+degree programme taught at the Faculty of Science and Engineering, for both
+students and the degree programmes. Please note the TER is updated every
+year. The TER for this academic year is applicable to all students registered in
+one of the programmes mentioned above, regardless of the starting date of
+students. If there are significant changes in the TER that might have a negative
+effect on students who are already registered in the programme transitional
+provisions are in place.
+
+The University-wide section of the Student Charter sets out the rights and
+obligations that apply to all students.
+
+
+
+
+                                                                                1
+Contents
+
+1.    General provisions
+
+2.    Qualifications and admission
+
+3.    Content and structure of the degree programme
+
+4.    The first year of the degree programme
+
+5.    Binding study advice
+
+6.    Admission to the second and third years of the degree programme
+
+7.    The second and third years of the degree programme
+
+8.    Other programmes
+
+9.    Examinations of the degree programme
+
+10. Final assessment   of the degree programme
+
+11.   Study progress supervision
+
+12.   Transitional and final provisions
+
+
+
+
+                                                                    2
+Section 1 General provisions
+
+
+    Article 1.1 Applicability
+
+    1. These Regulations for the academic year 2024-2025 apply to the teaching
+       and examinations of the Bachelor’s degree programmes in Applied
+       Mathematics, Applied Physics, Artificial Intelligence, Astronomy, Biology,
+       Biomedical Engineering, Chemistry, Chemical Engineering, Computing
+       Science, Industrial Engineering and Management Science, Life Science and
+       Technology, Mathematics, Pharmacy and Physics hereinafter referred to as
+       the degree programme(s), and to all students enrolled in this degree
+       programme.
+
+    2. The degree programmes are provided by the Faculty of Science and
+       Engineering (FSE) of the University of Groningen (UG), hereinafter referred
+       to as ‘the Faculty’.
+
+    3. These Regulations also apply to the students of other faculties or institutes of
+       higher education, insofar as they follow course units organised by one of the
+       degree programmes (including Minors) to which these Regulations apply.
+
+    4. Course units or Minors that students follow which are organised by other
+       degree programmes, other faculties, or other institutes of higher education,
+       are subject to the Teaching and Examination Regulations of that
+       programme, faculty or institute.
+
+    5. These Regulations also apply to students enrolled in the degree programme
+       for the purpose of following a pre-master's programme as referred to in
+       Article 8.8.
+
+
+    Article 1.2 Definitions
+
+    The following definitions apply to these Regulations:
+    a. Academic integrity: information about academic integrity and the associated
+       procedures can be found on the University of Groningen website:
+       https://www.rug.nl/aboutug/organization/rules-and-
+       regulations/general/gedragscodes-
+       nederlandseuniversiteiten/wetenschappelijke-integriteit;
+    b. Academic year: the period of time that starts on 1 September and ends on 31
+       August of the following year;
+    c. Act: the Higher Education and Research Act (in Dutch WHW: Wet op het
+       Hoger onderwijs en Wetenschappelijk onderzoek);
+
+                                                                                       3
+d. Board of Admissions Bachelor’s programmes FSE: the board that has
+   decision-making powers in matters concerning admission to the degree
+   programme on behalf of the Faculty Board;
+e. Binding (negative) study advice: a negative definitive study advice that is
+   binding for the student in question and means the student may not continue
+   with the degree programme, in accordance with Article 7.8b.3 of the Act;
+f. Board of Examiners: an independent body charged with the duties and
+   powers as stated in Articles 7.11, 7.12, 7.12b and 7.12c of the Act, including
+   assessing whether the requirements of the final assessment have been met;
+g. Course unit: a teaching unit of the degree programme within the meaning of
+   Article 7.3 of the Act, included in OCASYS;
+h. Definitive study advice: a study advice that is issued only once at the end of
+   the first year and which may result in rejection of the student in question, in
+   accordance with Article 7.8b.1 and 7.8b.2 of the Act;
+i. Degree programme: the Bachelor’s degree programme referred to in Article
+   1.1 of these Regulations, comprising a coherent set of course units;
+j. ECTS (European Credit Transfer and Accumulation System) credit point: a
+   credit point within the meaning of Article 7.4 of the Act. The student
+   workload of each course unit is expressed in ECTS credit points, whereby 1
+   ECTS is equivalent to a student workload of 28 hours;
+k. Examiner: a person appointed by the Board of Examiners to set
+   examinations and determine their results;
+l. Extraordinary circumstances: circumstances such as those referred to in
+   Article 7.51 of the Act, and which will be taken into account when
+   formulating a decision within the meaning of Article 5.4 and 9.8. Within
+   the University of Groningen, the implementation of Article 7.51 of the Act
+   is stipulated in the University of Groningen’s Graduation Fund
+   Regulations. In these Regulations, extraordinary circumstances include,
+   in any case, a disability of chronic illness, illness, pregnancy and delivery,
+   extraordinary family circumstances, a degree programme which is not
+   feasible, students with an elite sports status (issued by the elite sports
+   coordinator), students with a ‘student entrepreneurship status’ (issued
+   by the UGCE), membership of a consultative participation body;
+m. Final assessment: the final assessment for the Bachelor’s degree which is
+   considered to be passed once all the requirements of the entire Bachelor’s
+   degree programme have been satisfied;
+n. First year of the degree programme: the first period in the degree
+   programme, with a student workload of 60 ECTS;
+o. Major: the entirety of compulsory course units in the first, second and
+   third years of the degree programme;
+p. Matching: the procedure regarding activities and issuing programme
+   recommendations, in accordance with Article 7.31a ff. of the Act, further
+   elaborated in Chapter 3 of the University of Groningen Regulations for
+   Registration and Tuition Fees;
+q. Minor component: the space available for students to specialize within the
+   degree programme;
+
+                                                                                 4
+r.    Minor package: a coherent set of course units that can be followed within
+      the Minor component;
+s.    OCASYS: the University of Groningen’s online course catalogue
+t.    Open University: a government-funded university in accordance with
+      Article 1.8 of the Act that develops and offers distance learning at university
+      level;
+u.    Personal Minor: a coherent set of broadening and deepening course units,
+      approved by the Board of Examiners, that students can choose themselves
+      and follow either at their own Faculty or at another Faculty;
+v.    Practical: a practical exercise, as referred to in Article 7.13 of the Act, in one
+      of the following forms:
+                 i a thesis
+                 ii a written assignment, paper or draft
+                 iii a research project
+                 iv active participation in fieldwork or an excursion
+                 v completion of a placement
+                 vi active participation in another educational activity designed to
+                     teach certain skills;
+v.    Preliminary study advice: preliminary study advice based on an overview of
+      study results, issued to students halfway through the first year of the degree
+      programme;
+w.    Pre-Masters’s programme: a bridging programme (with a maximum of 60
+      ECTS) that enables students to be admitted to a Master’s degree
+      programme;
+x.    Programme Committee: the consultative and advisory body that fulfils
+      the duties referred to in Article 9.18 of the Act;
+y.    second and third years of the degree programme: the part of the Bachelor’s
+      degree programme that follows the first year of the degree programme (120
+      ECTS);
+z.    Semester: part of the academic year, either starting on 1 September and
+      ending on a date to be determined by the Board of the University on or
+      around 31 January, or starting on the aforementioned date, determined by
+      the Board of the University, and ending on 31 August;
+aa.   SSE: the School of Science and Engineering;
+bb.   Student: a person registered at the University of Groningen for the purpose
+      of taking course units and/or examinations leading to the conferral of a
+      university degree;
+cc.   Study progress overview: a written overview of study results accompanied
+      by a preliminary study advice, which is issued to students per email halfway
+      through the academic year;
+dd.   Test or examination: a test of the knowledge, understanding and skills of
+      students, including an assessment of the results;
+ee.   UGCE: University of Groningen Centre of Entrepreneurship
+ff.   University Minor package: a coherent set of broadening course units or
+      deepening course units that students can follow either at their own Faculty
+
+
+                                                                                       5
+    or a different Faculty, which is in principle accessible to students from all
+    Bachelor’s degree programmes at the University of Groningen;
+gg. VWO diploma: the diploma awarded upon completion of Dutch pre-
+    university education, in accordance with Article 2.58(2)(a) or Article
+    2.80(2)(a) of the Secondary Education Act 2020.
+
+All other definitions shall have the meaning that the Act ascribes to them.
+
+
+
+
+                                                                                    6
+Section 2 Qualifications and admission
+
+
+    Article 2.1 Admission to the degree programme with profile requirement
+
+    1. The following requirements apply to the holders of a VWO diploma, as defined
+      in Article 7.28.3 of the Act:
+
+      BSc Degree                Natuur &   Natuur &     Economie &        Cultuur &
+      Programme                 Techniek   Gezondheid   Maatschappij      Maatschappij
+
+      Artificial Intelligence   v          v            v                 math (A) or math
+                                                                          (B)
+
+      Astronomy and             v          math (B) +   math (B) + phys   math (B) + phys
+      (Applied) Physics                    phys
+
+      Biology                   bio        phys         x                 x
+
+      Biomedical                v          math (B) +   math (B) + phys   math (B) + phys (+
+      Engineering                          phys         (+ chem)          chem)
+
+      Chemical                  v          math (B) +   math (B) + phys   math (B) + phys +
+      Engineering,                         phys         + chem            chem
+      Chemistry and
+      Life Science &
+      Technology
+
+
+      Computing Science,        v          math (B)     math (B)          math (B)
+      Industrial
+      Engineering &
+      Management and
+      (Applied)
+      Mathematics
+
+      Pharmacy                  v          phys         phys + chem       math (A) or math
+                                                                          (B)+ phys + chem
+
+      math (A) = Mathematics A; math (B) = Mathematics B; phys = Physics; chem = Chemistry; bio
+      = Biology
+      v = admissible without additional requirements
+      x = not admissible
+
+    2. Holders of:
+         a pre-university education diploma that does not include the required
+           subject profile;
+         another certificate listed in the Act that grants admission to the degree
+           programme;
+
+
+
+
+                                                                                               7
+     will be admitted to the degree programme on condition that the
+     requirements set out in Article 2.1.3 are satisfied.
+
+3. Holders of one of the certificates listed in Article 2.1.2 may only register for
+   the degree programme after having demonstrated sufficient knowledge, at
+   pre-university education final examination level, of the following course units
+   in the required pre-university education profile:
+
+     Bachelor’s degree programme          Subjects at VWO (pre-university) level
+
+     B Applied Mathematics                math (B)
+
+     B Applied Physics                    math (B) + phys
+
+     B Artificial Intelligence            math (A) or math (B)
+
+     B Astronomy                          math (B) + phys
+
+     B Biology                            math (A) or math (B) + na+sk+bio
+
+     B Biomedical Engineering             math (B) + phys
+
+     B Chemical Engineering               math (B) + phys + chem
+
+     B Chemistry                          math (B)+ phys + chem
+
+     B Computing Science                  math (B)
+
+     B Industrial Engineering and         math (B)
+     Management Science
+
+     B Life Science and Technology        math (B)+ phys + chem
+
+     B Mathematics                        math (B)
+
+     B Pharmacy                           math (A) or math (B)+ phys + chem
+
+     B Physics                            math (B)+ phys
+   math (A)= Mathematics A; math (B) = Mathematics B; phys = Physics; chem = Chemistry;
+   bio = Biology
+
+     4. In extraordinary cases, the Board of Admissions may ask a university
+        lecturer in the relevant course unit to arrange one or more tests to
+        determine the student's knowledge as referred to in Article 2.1.3.
+
+     5. The Board of Admissions of the FSE Bachelor’s programmes will
+        determine whether the deficiencies have been compensated
+        satisfactorily.
+
+
+
+                                                                                          8
+Article 2.2 Admission to the programme with deficiencies and
+admission based on a University of Applied Sciences (HBO),
+University or Open University propaedeutic certificate
+
+The following applies to students with Dutch qualifications:
+
+1. Deficiencies in the qualifications in a VWO diploma may be compensated by
+   passing the relevant examinations at the level of the VWO final examination.
+   The relevant subjects and examinations are listed in Article 2.1.1.
+
+2. Holders of a propaedeutic certificate from a University of Applied Science
+   Bachelor’s programme or an (Open) University Bachelor’s programme will
+   be granted admission to the degree programme after having demonstrated
+   proficiency in English and sufficient knowledge at VWO final examination
+   level in accordance with the entry requirements for VWO graduates. The
+   relevant subjects and examinations are:
+    Bachelor’s degree programme          Subjects at VWO (pre-university) level
+
+    B Applied Mathematics                math (B)
+
+    B Applied Physics                    math (B)+ phys
+
+    B Artificial Intelligence            math (A) or math (B)
+
+    B Astronomy                          math (B)+ phys
+
+    B Biology                            math (A) or math (B)+ phys + chem +bio
+
+    B Biomedical Engineering             math (B)+ phys
+
+    B Chemical Engineering               math (B)+ phys + chem
+
+    B Chemistry                          math (B)+ phys + chem
+
+    B Computing Science                  math (B)
+
+    B Industrial Engineering and         math (B)
+    Management Science
+
+    B Life Science and Technology        math (B)+ phys + chem
+
+    B Mathematics                        math (B)
+
+    B Pharmacy                           math (A) or math (B) + phys + chem
+
+    B Physics                            math (B)+ phys
+   math (A) = Mathematics A; math (B) = Mathematics B; phys = Physics; chem = Chemistry;
+   bio = Biology
+
+
+
+                                                                                           9
+3. The Board of Admissions of the FSE Bachelor’s programmes will determine
+   whether the deficiencies have been compensated satisfactorily.
+
+4. In extraordinary cases, the Board of Admissions may ask a university
+   lecturer in the relevant course unit to arrange one or more tests to determine
+   the student's knowledge as referred to in Article 2.1.3.
+
+
+Article 2.3 Language requirement for foreign certificates
+
+1. Students who have been admitted to a degree programme on the basis of a
+   foreign certificate or degree may be required by the Board of Admissions –
+   before registration – to pass an English language test, to be administered by
+   an agency stipulated by the Faculty Board.
+
+2. The English language proficiency requirement can be met by passing an
+   examination in English with the following minimum scores:
+
+   Score ->          Overall     Reading     Listening    Speaking        Writing
+
+   Test
+
+   IELTS             6.5         6.5         6.5          6.5             6.5
+   (Academic)
+
+   TOEFL IBT         90          21          21           21              24
+   (internet-
+   based)
+
+   Cambridge         CAE or CPE Certificate with a minimum score of 180
+   English
+
+
+3. Students are exempted from proving their proficiency in English if they:
+    a have completed/will complete secondary education or a Bachelor’s
+       programme in one of the following countries: USA, UK, Ireland, New
+       Zealand, Australia, Canada (English speaking provinces/territories),
+       Antigua and Barbuda, The Bahamas, Barbados, Belize, Grenada,
+       Guyana, Jamaica, Trinidad and Tobago, St Kitts and Nevis, St Lucia and
+       St Vincent and the Grenadines;
+    b apply on the basis of at least 3 (to be obtained) academic GCE A-level
+       certificates with grades A* to C from one of the British examination
+       boards;
+    c apply on the basis of a (to be obtained) International Baccalaureate
+       diploma, with English as the medium of instruction;
+
+
+
+
+                                                                                    10
+      d   apply on the basis of a (to be obtained) European Baccalaureate diploma
+          from a European School or one of the Accredited European Schools and
+          have (completed) English as an L1 or L2 subject;
+      e apply on the basis of (to be obtained) at least 60 ECTS from an English-
+          taught Bachelor’s degree programme in the Netherlands;
+      f apply on the basis of a (to be obtained) French Option Internationale du
+          Baccalauréat – British version;
+      g apply on the basis of a (to be obtained) South African National Senior
+          Certificate in combination with an IEB Advanced Programme Certificate
+          in English (with minimum result 55% in case this is the only IEB AP
+          certificate; otherwise with a passing grade);
+      h apply on the basis of a (to be obtained) Singapore/Cambridge GCE A
+          levels in at least 3 H2 and 1 H1 content* courses (of which at least 1
+          course in a contrasting discipline) together with either the course
+          General Paper or Knowledge and Inquiry (5 courses in total);
+     * H1 Mother-Tongue Language (MTL) subject cannot be considered in-lieu
+     of a H1 content-based subject.
+
+
+Article 2.4 Equivalent qualifications
+
+1.   Holders of a certificate of a foreign secondary education institute that has
+     not been designated by ministerial regulation as equivalent to the
+     qualification requirements listed in Article 7.24 of the Act may be granted
+     exemption from the qualification requirements.
+
+2.   Equivalence will be revealed after an assessment by the Board of
+     Admissions.
+
+
+Article 2.5 Entrance examination (colloquium doctum)
+
+1.   Students who do not meet the qualification requirement as referred to in
+     Articles 2.1 and 2.2 may participate in an entrance examination (colloquium
+     doctum), in accordance with Article 7.29 of the Act.
+
+2.   a. Students who wish to take the entrance examination must be aged 21 or
+     over on the date on which the examination is held.
+     b. An exception to the age requirement may be made if the student in
+     question has gained a certificate abroad or if the student has the status of
+     refugee and for this reason is unable to present a degree certificate.
+
+
+
+
+                                                                                    11
+3.   The entrance examination concerns the relevant subjects and examinations
+     as listed below and will be assessed by the Board of Admissions Bachelor’s
+     programmes FSE. The provisions of Article 2.3 apply.
+            Degree Programme                          Subjects at VWO (pre university)
+                                                      level
+            B Applied Physics                         eng, math (B), chem, phys
+            B Applied Mathematics                     eng, math (B), chem, phys
+            B Artificial Intelligence                 eng, math (A or B)
+            B Astronomy                               eng, math (B), chem, phys
+            B Biology                                 eng, math (A or B), chem, phys, bio
+            B Biomedical Engineering                  eng, math (B), phys
+            B Chemical Engineering                    eng, math (B), chem, phys
+            B Chemistry                               eng, math (B), chem, phys
+            B Computing Science                       eng, math (B), chem, phys
+            B Industrial Engineering and              eng, math (B), chem, phys
+            Management Science
+            B Life Science and Technology             eng, math (B), chem, phys
+            B Mathematics                             eng, math (B), chem, phys
+            B Pharmacy                                eng, math (A or B), chem, phys
+            B Physics                                 eng, math (B), chem, phys
+
+     eng = English; math (A) = Mathematics A; math (B) = Mathematics B; phys = Physics;
+     chem = Chemistry; bio = Biology
+
+4.   A successfully completed entrance examination will grant admission to the
+     University of Groningen degree programme for which it was taken for the
+     duration of two academic years after the date on which the examination was
+     taken.
+
+
+Article 2.6 Preparatory year
+
+1. Higher educated foreigners who do not satisfy the entry requirements set out
+     in the articles 2.1, 2.2 and 2.3 may participate in the Preparatory Year for
+     higher educated foreigners, offered by the Alfa-College for Hanze University
+     of Applied Sciences and University of Groningen.
+
+2. A successfully completed entrance examination of the Preparatory Year will
+     grant admission to the University of Groningen degree programme for which
+     it was taken for the duration of two academic years after the date on which
+     the examination was taken.
+
+
+
+
+                                                                                          12
+Article 2.7 Board of Admissions Bachelor’s degree programmes FSE
+
+1. The Board of Admissions Bachelor’s degree programmes FSE has the power
+     to decide on behalf of the Faculty Board in matters concerning admission to
+     the degree programme, within the framework of the Teaching and
+     Examination Regulations.
+
+2. The Faculty Board is responsible for appointing members of the Board of
+     Admissions Bachelor’s programmes FSE and will set out the entry
+     requirements.
+
+
+Article 2.8 Intake date and application dates
+
+1. There is one intake date per academic year, namely 1 September of each year.
+
+2. The provisions of this Article also apply to students who reregister for the
+     same degree programme.
+
+
+Article 2.9 Matching
+
+1.   Prior to the first registration for the degree programme, prospective students
+     are required to participate in the matching activities offered by the
+     programme. Following their participation in matching, prospective students
+     will receive a programme recommendation.
+
+2.   The provisions in Chapter 3 of the University of Groningen Regulations for
+     Registration and Tuition Fees (RIC) and the Faculty matching procedure
+     apply.
+
+3.   Starting the first year of the Bachelor’s degree programme after 1 September
+     is not possible.
+
+4.   Students who switch to a different degree programme within the same BSA
+     cluster are exempt from participation in matching activities.
+
+
+Article 2.10 Selection (numerus fixus)
+
+1.   Quotas (numerus fixus) apply to the following Bachelor’s degree
+     programmes in accordance with Article 7.53 or Article 7.56 of the Act:
+       a. Artificial Intelligence (175 places)
+       b. Biomedical Engineering (125 places)
+
+                                                                                  13
+       c. Computing Science (200 places)
+
+2.   Prior to the first enrolment in the degree programme, candidates for these
+     degree programmes shall take part in the selection procedure. Only if the
+     candidate is offered a study place on the basis of the result of the selection
+     procedure and the prospective student accepts it within the stipulated
+     period, can the candidate be enrolled in the degree programme.
+
+3. The provisions of Chapter 3 of the RUG Regulations for Registration and
+   Tuition Fees and the faculty selection procedure apply.
+
+
+Article 2.11 Switch in the first year
+
+Students who would like to switch within the first year of their studies need to
+make an appointment with the academic advisor. The Board of Admissions
+decides on a request for admission during the academic year, based on the
+advice of the academic advisor and taking into account the following aspects:
+a.    Admissibility
+b.    (re)matching
+c.    BSA-progress and BSA-clustering (art. 5.7)
+d.    Registration date
+e.    Selectivity of the programme
+
+
+
+
+                                                                                      14
+Section 3 Content and structure of the degree programme
+
+
+    Article 3.1 Aims and learning outcomes of the degree programme
+
+    1. The degree programme is designed to:
+           a. impart knowledge, skills and understanding in the field of the degree
+              programme, and to enable the learning outcomes of the programme
+              listed in Appendix I to be attained;
+
+           b. promote academic development. This is defined as the development
+              of competences (knowledge, skills and attitudes) concerning:
+              - independent academic thought and action
+              - scientific communication
+              - the use of the relevant academic instruments
+              - the use of specific knowledge of a field in a wider academic,
+                  philosophical and social/cultural context
+              - behavioural norms that apply during the degree programme and
+                  in the academic world
+              - a professional approach to work or profession while fulfilling the
+                  relevant (disciplinary) standards of responsible research;
+           c. prepare students for a further study career. Students become familiar
+              with the theory and practice of academia from the very start of their
+              Bachelor’s degree programme.
+
+    2. The learning outcomes of the various course units are stated in OCASYS.
+
+
+    Article 3.2 – Conducting research
+
+    1. Students who conduct research in the context of the degree programme do so
+       in accordance with relevant legislation, the Dutch code of conduct for
+       academic integrity, and the requirements of ethically sound research.
+
+    2. Throughout the entire research process, the student will adhere to the
+       applicable policies and procedures, which fall under the data management
+       policy of the Research Institute where the research project takes place.
+
+    3. Prior to the period of research, the student, together with their supervisor,
+       can draw up a data management plan. This is then stored, in accordance with
+       the faculty’s data policy. At a minimum, this plan will address:
+         the student’s responsibilities concerning the processing of personal data
+         the data storage measures (including security measures) used in the
+           course of the research
+
+                                                                                  15
+       the archiving and retention period
+       the responsibility for reusing data after the research has been completed.
+
+4. In general, the student holds the copyright on any theses or other
+   independently written assignments that are intended to test their knowledge,
+   understanding, and skills. If anyone else wishes to use the student’s thesis or
+   written work, the student must first give permission for them to do so. The
+   University must be free to perform these procedures unconditionally if it is to
+   archive theses and written assignments (whether or not these are under
+   embargo) and to process them in accordance with the rules of the Dutch
+   Inspectorate of Education and the Act. All students are obliged to give their
+   unconditional consent to the aforementioned procedures.
+
+
+Article 3.3 Type of degree programme
+
+The degree programme is full time.
+
+
+Article 3.4 Language of instruction
+
+The Bachelor’s degree programmes of the Faculty of Science and Engineering
+are taught in English.
+
+
+Article 3.5 Student workload
+
+1. The degree programme has a student workload of 180 ECTS credit points.
+
+2. The first year of the degree programme has a student workload of 60 ECTS
+    credit points.
+
+3. The student workload is expressed in whole ECTS credit points.
+
+
+Article 3.6 Contact hours
+
+1. The first year of the degree programme comprises a minimum of 480 contact
+    hours a year.
+
+2. The second and third years of the degree programme comprises a minimum
+    of contact hours a year, as listed in Appendix V.
+
+3. Details of the contact hours are registered in OCASYS.
+
+
+                                                                                16
+Article 3.7 Organization and assessments of the degree programme
+
+1. The Bachelor’s degree programme is concluded with a final assessment.
+
+2. The degree programme is divided into the first year of the degree
+   programme, and the second and third years of the degree programme.
+
+3. The entire degree programme comprises a Major (150 ECTS) and a Minor (1
+   x 30 ECTS or 2 x 15 ECTS), unless stated otherwise in art. 7.1.2.
+
+4. A list of Majors and available Minors can be found in Appendix II to these
+   Regulations.
+
+
+Article 3.8 Participation in FSE course units
+
+1. Participation in a course unit may only take place after proper and timely
+   registration. All information about the enrolment procedure for FSE course
+   units can be found on the Student Portal:
+   https://student.portal.rug.nl/infonet/studenten/fse/faculty-spcontent/snel-
+   naar/vakintekening-procedure
+
+2. The maximum number of students for each course unit is listed in OCASYS.
+
+3. Admission to course units with limited capacity is arranged according to
+   predefined and published admission criteria and priority regulations.
+   Students who are registered for the degree programme will be given priority
+   for the compulsory course units in their Major.
+
+4. Students who are registered for the Bachelor’s degree programme cannot
+   access the course units of a Master’s degree programme.
+
+
+
+
+                                                                                17
+Section 4 The first year of the degree programme
+
+
+    Article 4.1 Content of the propaedeutic phase the first year of the degree
+    programme
+
+    1. A list of course units in the first year of the degree programme can be found
+       in Appendix III to these Regulations.
+
+    2. Any deviations from the set of first year course units referred to in Article
+       4.1.1. must be presented to the Board of Examiners for approval.
+
+    3. All course units and their modes of instruction are listed in the University’s
+       digital course catalogue: OCASYS.
+
+    4. In situations of force majeure, where it is not reasonably possible to teach in
+       the manner indicated in OCASYS, it is possible to temporarily switch to
+       another format of teaching and examination. This is also subject to the
+       condition that the adopted learning outcomes continue to be achieved after
+       the change of format.
+
+
+
+
+                                                                                        18
+Section 5 Binding study advice
+
+
+    Article 5.1 Preliminary study advice
+
+    1. Halfway through the first semester of the first year of registration, in the first
+       year of their degree programme, students will receive a study progress
+       overview specifying the student workload realized thus far.
+
+    2. As soon as possible after the end of the first semester, but no later than
+       1 March, the students will receive a written preliminary study advice.
+
+    3. This preliminary study advice will include a warning if the student has made
+       insufficient progress with their studies, such that the student still has the
+       opportunity to improve their performance.
+
+    4. If the study progress is such that the student cannot reasonably be expected
+       to satisfy the conditions for receiving a positive study advice as listed in
+       Article 5.2.2a, the student will be invited to attend a meeting with the
+       academic advisor. The aim of the meeting is to discuss the student’s study
+       habits, to reassess the choice of degree programme and if necessary to refer
+       them to a different degree programme.
+
+
+    Article 5.2 Definitive study advice
+
+    1. Students must earn at least 45 ECTS credit points in the first year of the
+       degree programme. This threshold is known as the BSA threshold.
+
+    2. A definitive study advice is issued at the end of the first academic year, by
+       July 31st at the latest. This can be either:
+       a. positive, for students who have earned at least 45 ECTS of the first year
+          of the degree programme.
+       b. negative, for students who have earned fewer than 45 ECTS of the first
+          year of the degree programme. This study advice is binding for students
+          in accordance with Article 7.8b.3 of the Act.
+
+       When determining the number of credit points earned, the results of
+       individual parts of examinations (tests, partial exams and projects) do not
+       count.
+
+    3. In the event that the preliminary study results are insufficient to such an
+       extent that the student cannot reasonably be expected to pass the 45 ECTS
+
+
+                                                                                       19
+   threshold by the end of the first year of study, a binding (negative) study
+   advice may be issued subsequently to the preliminary study advice as
+   referred to in Article 5.1 before the end of the academic year. This may also
+   be at the request of the student. The procedure set out in Article 5.5 will
+   apply.
+
+4. a. The Faculty Board will take extraordinary personal circumstances as
+   referred to in Article 5.4 into account in its decision about which study
+   advice to issue in the first year of registration for the degree programme.
+
+  b. Notwithstanding the stipulations in Article 5.2.2, if no assessment can be
+  made with regard to a student’s suitability for the degree programme due to
+  personal circumstances for the first year, the assessment may be postponed
+  until a later date within the first year of the degree programme.
+
+  c. Students may be granted a lower binding (negative) study advice threshold
+  in the case of structural circumstances, for instance when a students has
+  performance disabilities.
+
+
+Article 5.3 Exemptions to the definitive study advice
+
+Multiple degree programmes at the University of Groningen
+1. Students who are registered for the first year of two or more University of
+   Groningen degree programmes in their first year of registration, and by the
+   end of the year satisfy the BSA threshold as referred to in Article 5.2.1 for one
+   degree programme, will not have to satisfy the BSA threshold for the other
+   programme(s) in that year. Once a student has successfully completed the
+   first year of one degree programme, the student is exempt from the BSA
+   requirements for all other degree programmes.
+
+Propaedeutic certificate previously gained/completion of the
+propaedeutic phase
+2. Students who have already completed the propaedeutic phase of a degree
+   programme at the University of Groningen or another Dutch university, or
+   (for degree programmes that do not issue propaedeutic certificates) in the
+   opinion of the Board of Examiners have earned 60 ECTS credit points in their
+   first year of study, will not fall under the BSA system for the degree
+   programme for which they enrol in the first year of the degree programme.
+
+Deregistration before 1 March
+3. No definitive study advice will be issued to students who submit a request for
+   deregistration before or as of 1 March of the first year of registration in the
+   degree programme (see Article 5.7). The procedure set out in Article 5.1 will
+
+                                                                                   20
+  apply again to students who reregister in a subsequent academic year. The
+  BSA regulations for the academic year in which they reregister for the degree
+  programme will then apply.
+
+Deregistration before 1 March + registration as of 1 February
+4. Article 5.2 applies in full to any students who deregister from a degree
+   programme before 1 March and who register by 1 February of that same
+   academic year for a degree programme belonging to the same degree
+   programme cluster, indicated in Article 5.7.
+
+Registration as of 1 February
+5. An adapted BSA threshold will apply to students who register for a University
+   of Groningen Bachelor’s degree programme as of 1 February and have not
+   previously been registered as students in the same academic year. These
+   students must have earned 20 ECTS from the second semester of the first
+   year of the degree programme by the end of the second semester of the first
+   Academic Year of registration. In all other cases, the provisions of Article 5.2
+   will apply mutatis mutandis.
+
+
+Article 5.4 Extraordinary circumstances
+
+1. When deciding whether to issue a binding (negative) study advice, the
+  Faculty Board will take a student’s extraordinary or personal circumstances
+  into account at that student’s request.
+  The evaluation of extraordinary circumstances will also take into account the
+  student’s study behaviour, the agreements made and/or the study plan drawn
+  up in consultation with the academic advisor, when the extraordinary
+  circumstances were reported and the study results achieved by the end of the
+  first year of study.
+
+2. Students must report extraordinary circumstances to the academic advisor as
+  soon as possible in order to ensure optimum support. The Faculty Board, or
+  the Faculty BSA Committee on its behalf, will make a decision in response to
+  a student’s request for a postponed advice or an adapted BSA threshold.
+  Students must also report to the academic advisor as soon as possible, if they
+  are unable to complete the study plan drawn up in consultation with the
+  academic advisor and based on the original or adapted BSA threshold.
+
+3. If no assessment can be made at the end of the first academic year with
+  regard to a student’s suitability for the degree programme due to
+  extraordinary circumstances as referred to in Article 5.4.1, the assessment
+  may only be postponed at the end of the first academic year.
+
+
+                                                                                 21
+4. Any study advice that is deferred can still be given as long as the first year of
+  the degree programme has not yet been completed.
+  a. The advice will be positive if the (possibly adapted) threshold has been
+     passed.
+  b. The advice will be negative (and binding) if the student in question still
+     fails to pass the (possibly adapted) BSA threshold in the first year of the
+     degree programme.
+
+5. All students whose study advice has been postponed (whether or not
+  combined with an adaptation of their BSA threshold) are expected to draw up
+  a study plan in consultation with their academic advisor, comprising at least
+  the following:
+  a. the course units from the first year of the degree programme that have not
+     yet been passed, with a related timeline
+  b. the course units from the second and third years of the degree programme
+     that may be followed in addition to the course units listed under a.
+
+6. Circumstances as referred to in Article 5.4.1 do not automatically lead to a
+  successful application for a grant from the Graduation Fund.
+
+
+Article 5.5 Procedure for issuing a definitive study advice
+
+1. The definitive study advice is issued by the Faculty Board on behalf of the
+  Board of the University. The decision will also state the applicable safeguards
+  of legal rights.
+
+2. Before a binding (negative) study advice is issued, students will receive notice
+  of the intention to issue one, after which they will be given the opportunity to
+  put their case to the Faculty Board or its representative.
+
+
+
+
+                                                                                   22
+Article 5.6 Consequences of a binding (negative) study advice
+
+1.   Students who have received a binding (negative) study advice may not
+     register for the degree programme, or for any other degree programme in the
+     cluster of related degree programmes listed in Article 5.7, for a period of two
+     consecutive years from 1 September of the next academic year.
+
+2.   Students who have been issued a binding (negative) study advice are not
+     permitted to follow course units in this degree programme via a different
+     degree programme or educational institution in order to avoid the
+     consequences of their binding
+     (negative) study advice. No exemptions will be granted for course units
+     completed in this way, nor will such completed course units be recognized
+     within the framework of the degree programme in any other way.
+
+
+Article 5.7 BSA-clusters FSE
+The related degree programmes within FSE, as referred to in the Articles 2.11,
+5.3.3, 5.3.4 and 5.6.1 are:
+
+ Degree            Name of degree       Clustered     Name of degree programme
+ programme         programme            with CROHO
+ CROHO code                             code
+ 56286             B Life Science and   56960         B Chemical Engineering
+                   Technology           56857         B Chemistry
+ 56860             B Biology            56157         B Pharmacy
+ 56157             B Pharmacy           56860         B Biology
+ 56980             B Mathematics        56965         B Applied Mathematics
+                                        50206         B Physics
+                                        56962         B Applied Physics
+                                        50205         B Astronomy
+ 56965             B Applied            56980         B Mathematics
+                   Mathematics          50206         B Physics
+                                        56962         B Applied Physics
+                                        50205         B Astronomy
+ 50206             B Physics            56962         B Applied Physics
+                                        50205         B Astronomy
+                                        56965         B Applied Mathematics
+                                        56980         B Mathematics
+
+
+                                                                                  23
+ 56962             B Applied Physics    50206            B Physics
+                                        50205            B Astronomy
+                                        56965            B Applied Mathematics
+                                        56980            B Mathematics
+ 50205             B Astronomy          56962            B Applied Physics
+                                        56965            B Applied Mathematics
+                                        50206            B Physics
+                                        56980            B Mathematics
+ 56857             B Chemistry          56960            B Chemical Engineering
+                                        56286            B Life Science & Technology
+ 56960             B Chemical           56857            B Chemistry
+                   Engineering          56286            B Life Science & Technology
+
+Degree programmes not appearing in the table above are not clustered with another FSE
+programme.
+
+
+
+Article 5.8 Consequences of a positive study advice
+
+1. Anyone who has received positive study advice from a degree programme at
+   the University of Groningen can be admitted to the second and third years of
+   the relevant degree programme.
+
+2. Notwithstanding Article 5.8.1, certain course units may be subject to the
+   entry requirement that a previous course unit must have been successfully
+   completed. This compulsory order of course units is set out in OCASYS and
+   in Article 9.3 of these Teaching and Examination Regulations.
+
+
+
+
+                                                                                        24
+Section 6 Admission to the second and third years of the degree
+programme
+
+
+    Article 6.1 Criteria for admission to the second and third years of the
+    degree programme
+
+    1. The following students may be admitted to the second and third years of the
+       degree programme, subject to approval of the Board of Admissions:
+          a. Holders of a propaedeutic certificate, or students who have earned 60
+              ECTS credit points in the first year of study in a related degree
+              programme;
+          b. Students who have been issued a positive study advice for the degree
+              programme in question, or one of the degree programmes listed in 5.7
+              (BSA-cluster);
+
+    2. The Board of Admissions may grant an exemption for the requirement
+       stipulated in Article 6.1.1. to the holder of a diploma gained in the
+       Netherlands or elsewhere and considered by the Board of Admissions to be
+       at least equivalent to the propaedeutic certificate referred to in Article 6.1.1.
+
+    3. Notwithstanding Article 6.1.1, the requirement that a previous course unit
+       must have been successfully completed may apply to some individual course
+       units. This compulsory order of course units is set out in the digital
+       University course catalogue OCASYS and in Article 9.3 of the Teaching and
+       Examination Regulations.
+
+
+    Article 6.2 Hardship clause for admission to the second and third
+    years of the degree programme
+
+    In situations where a change to educational content/educational force majeure
+    demonstrably leads to an unfairness of overriding nature, the Board of
+    Examiners may deviate from the provisions of Articles 6.1 and 5.8. Such cases
+    must involve a unique individual circumstance that is so distinctive that
+    admission cannot reasonably be denied.
+
+
+
+
+                                                                                       25
+Section 7 The second and third years of the degree programme
+
+
+    Article 7.1 Composition: second and third years of the degree
+    programme
+
+    1.   The second and third years of the degree programme comprises the
+         following course units with their related student workloads:
+            a. Major course units (90 ECTS)
+
+            b. Major related minor (30 ECTS) or a Personal/University Minor (2x15
+                or 30 ECTS).
+
+         A list of course units in the second and third years of the degree programme
+         can be found in Appendix IV of these Regulations.
+
+    2. All bachelor degree programmes offer a 30 ECTS minor-slot in the third year
+         of the degree programme, with the exception of:
+             a) Applied Mathematics;
+             b) Applied Physics;
+             c) Biomedical Engineering;
+             d) Chemical Engineering;
+             e) Industrial Engineering & Management;
+             f) Pharmacy
+          In deviation from art. 7.1.1 these degree programmes comprise 105 or 120
+          ECTS major course units each.
+
+
+    3. Students can fill in their Minor slot with the following components:
+       - a research traineeship
+       - a placement/internship
+       - a study period at another university (national or abroad)
+       - a Teacher Training Minor (see Article 8.6)
+       - a broadening or deepening Minor, comprising course units from outside
+            their own major.
+
+    4. Any deviations from the set of second and third year course units referred to
+         in Article 7.1.1.a and the filling in of the minor slot referred to in Article
+         7.1.1.b must be presented to the Board of Examiners for approval.
+
+    5. All course units and their modes of instruction are listed in the digital
+         University course catalogue OCASYS.
+
+
+                                                                                          26
+6. In situations of force majeure, when it is not reasonably possible to provide
+     teaching in the manner stated in OCASYS, alternative modes of instruction
+     and assessment may temporarily be used. This is on condition that the
+     prescribed learning outcomes are still achieved upon completion of the
+     degree programme.
+
+
+Article 7.2 Substitutions and electives followed elsewhere
+
+1.    Following a substantiated request by a student, the Board of Examiners may
+      grant permission to:
+     a. substitute a course unit in the examination programme with another
+         course unit offered by the University of Groningen or another university
+         in the Netherlands or abroad that is in keeping with the degree
+         programme, or
+     b. replace one or more course units followed at the University of Groningen
+         or another university in the Netherlands or abroad as electives in the
+         degree programme.
+
+2.   When assessing such a request, the Board of Examiners will in any case
+     evaluate the coherence of the set of course units (or parts thereof) and the
+     level of the course units followed.
+
+
+Article 7.3 – Open Degree Programme
+1. Students may choose to follow a degree programme’s Open Degree
+   Programme, which deviates from the regular specialization(s) of the degree
+   programme. An Open Degree Programme must always be approved in
+   advance by the Board of Examiners of the degree programme in which the
+   student is registered.
+
+2. The additional requirements to Open Degree Programmes are listed in
+     Appendix VI.
+
+
+
+
+                                                                                    27
+Section 8 Other programmes
+
+
+    A. Minor
+
+    Article 8.1 Minor
+
+    1. The Minor framework can be filled using any of the options listed in Article
+       7.1.2.
+    2. Students can choose between:
+          a. a University Minor
+          b. a Faculty Minor
+          c. a Personal Minor.
+
+
+    Article 8.2 University Minor
+
+    1. A University Minor is a coherent set of broadening course units that students
+       can follow either at their own or a different Faculty.
+
+    2. Students who choose to fill their Minor framework with a University Minor
+       do not need explicit permission from the Board of Examiners.
+
+
+    Article 8.3 Faculty Minor
+
+    1. A Faculty Minor is a coherent set of broadening course units that students
+       can follow either at their own, or a different faculty.
+
+    2. When choosing a Faculty Minor to fill the minor room of the degree
+       programme, the permission of the Board of Examiners of the programme is
+       assumed to have been given.
+
+
+    Article 8.4 Personal Minor
+
+    1. A personal Minor is a coherent set of broadening or deepening course units
+       that students can compile themselves and follow either at their own or a
+       different Faculty.
+
+    2. The demand of a coherent set does not apply to the Personal Minor when
+       this will be filled with a study period at a university abroad.
+
+
+
+                                                                                      28
+3. Personal Minors must be presented to the Board of Examiners of the
+     student’s own degree programme for approval in advance.
+
+
+Article 8.4 Authority of the Board of Examiners with regard to the
+Minors
+
+1.   Students must present their choice of Minor to the Board of Examiners of
+     their own degree programme for approval, except if they choose a University
+     Minor in accordance with Article 8.2.2.
+
+2.   Minors that students of the degree programme follow at other degree
+     programmes, faculties or institutes of higher education, are subject to the
+     authority of the Board of Examiners of the degree programme that
+     administers the relevant examinations.
+
+3.   Minors in the degree programme followed by students of other degree
+     programmes, faculties or institutes of higher education, are subject to the
+     authority of the Board of Examiners of the degree programme.
+
+4.   A responsible Board of Examiners will be assigned in the event of inter-
+     faculty University Minors.
+
+
+Article 8.5 University Minors of the Faculty of Science and
+Engineering
+
+1.   In the academic year 2024-2025 the Faculty of Science and Engineering
+     offers four University Minors:
+
+       I.   Minor Neuroscience (taught in English):
+            - Neuroscience (15 ECTS)
+            - Behavioural Neuroscience (15 ECTS)
+       Competent Programme Committee: BSc Biology
+       Competent Board of Examiners: Biology
+
+       II.  Astronomy through Space and Time Minor (taught in English):
+           - The Evolving Universe (5 ECTS)
+           - Cosmic Origins (5 ECTS)
+           - Astrobiology (5 ECTS)
+       Competent Programme Committee: BSc Astronomy
+       Competent Board of Examiners: Physics
+
+
+                                                                                   29
+       III. Einstein's physics: Space-time and parallel worlds (taught in
+            English):
+           - The Quantum World (5 ECTS)
+           - Relativity Theory (5 ECTS)
+           - Living in Einstein’s Universe (5 ECTS)
+       Competent Programme Committee: BSc (Applied) Physics
+       Competent Board of Examiners: Physics
+
+       IV.     Future Planet Innovation (taught in English):
+               - Global Challenges (10 ECTS)
+               - Global Integration (5 ECTS)
+               - Sustainable Contributions to Society (15 ECTS)
+         Competent Programme Committee: MSc Energy and Environmental
+         Sciences
+         Competent Board of Examiners: Energy and Environmental Sciences
+
+2.   The entry requirements for these Minors are set out in Article 6.1.4 and in
+     OCASYS.
+
+3.   The Minors are taught in English, unless indicated otherwise.
+
+4.   These Teaching and Examination Rules are applicable to the university
+     minors.
+
+
+Article 8.6 Teacher Training Minor and supplementary teaching
+qualification
+
+1.   A Bachelor’s degree of one of the degree programmes in the table below, in
+     combination with the Teacher Training Minor, provides the qualification to
+     teach in the school subject (at levels vmbo-tl and lower levels havo-vwo).
+     This concerns a limited qualification.
+
+ CROHO              Bachelor’s degree programme             School subject
+
+ 56860              Biology                                 Biology
+ 56981              Artificial Intelligence                 Computing Science
+ 56978              Computing Science
+
+
+
+
+                                                                                   30
+ 50206               Physics                                 Physics
+ 56962               Applied Physics
+ 50205               Astronomy
+ 56226               Biomedical Engineering
+ 56857               Chemistry                               Chemistry
+ 56960               Chemical Engineering
+ 56286               Life Science and
+                     Technology
+ 56157               Pharmacy
+ 56226               Biomedical Engineering
+ 56980               Mathematics                             Mathematics
+ 56965               Applied Mathematics
+ 50205               Astronomy
+ 50206               Physics
+ 56962               Applied Physics
+ 56994               Industrial Engineering and Management
+
+
+2.   The Teacher Training Minor is Dutch-taught and organized by the
+     department of Teacher Education. The Teaching and Examination
+     Regulations of the faculty of Behavioural and Social Sciences apply.
+
+3.   The application deadline for the Teacher Training Minor is 1 June 2024.
+
+
+B. Honours programme
+
+Article 8.7 Bachelor’s Honours programme
+
+1.   The Faculty participates in the Bachelor’s Honours Programme organized by
+     the University of Groningen Honours College. The Honours Programme
+     does not form part of the regular Bachelor’s curriculum.
+
+2.   Students who have been admitted to one of the Bachelor’s degree
+     programmes offered by the Faculty can participate in the Bachelor’s Honours
+     Programme if they are selected by the Dean of the University of Groningen
+     Honours College. Please consult the Teaching and Examination Regulations
+     of the University of Groningen Honours College for the selection procedure.
+
+3.   The Bachelor’s Honours Programme has a total student workload of 30* or
+     45 ECTS credit points, divided over the three years of the Bachelor’s
+     programme.
+
+     The Bachelor’s Honours Programme, including the deepening Faculty part,
+     is subject to the Teaching and Examination Regulations of the University of
+     Groningen Honours College.
+
+                                                                               31
+*From academic year 2023-2024, the Bachelor’s Honours Programme will
+decrease from 45 ECTS to 30 ECTS credit points. The two cohorts that are
+already active are still following a programme of 45 ECTS credit points.
+
+4.   a. The Honours Programme is not part of the regular Bachelor’s curriculum.
+     The results and marks do not count towards the accolade of a cum laude or
+     summa cum laude honours predicate for the Bachelor’s degree programme.
+     b. The Diploma Supplement accompanying the Bachelor’s degree certificate
+     also lists the results of the Bachelor’s Honours Programme.
+
+
+
+C. Pre-Master’s programmes
+
+Article 8.8 Pre-Master’s programmes
+
+1. The Faculty offers Pre-Master’s programmes designed to achieve admission
+   to one of the Faculty’s Master’s degree programme.
+
+2. Students who enroll in a Pre-Master’s programme are registered in the
+   therefore appointed Bachelor’s degree programme.
+
+3. The Board of Admissions of the desired Master’s degree programme
+   determines on a case-by-case basis the content and student workload of the
+   pre-master’s programme.
+
+4. The Board of Admissions of the intended Master’s degree programme rules
+   on admissions to the associated Pre-Master’s programme.
+
+5. Applicants must meet the language requirements as listed in Article 2.2 of
+   the Teaching and Examination Regulations for the FSE Master’s degree
+   programmes.
+
+6. Students requesting admission on the basis of a completed degree
+   programme obtained at a Dutch university of Applied Science (HBO), or a
+   Dutch research university, are exempted from providing their proof of
+   proficiency in English.
+
+7. After admission to a Pre-Master’s programme, that programme must be
+   completed within one year.
+
+8. In addition to Article 8.8.7, student may only reregister for a Pre-Master’s
+   programme if they have earned at least 45 ECTS.
+
+
+                                                                                  32
+        9. The Board of Examiners of the student’s Bachelor’s degree programme has
+           the authority to decide in matters concerning course units in the pre-
+           master’s programme.
+
+        10. The University of Groningen’s Regulations for Registration and Tuition
+            Fees provisions regarding pre-master’s programmes apply.
+
+
+
+        D. Global & Intercultural Engagement Distinction (GIED)*
+
+        Article 8.9 Global & Intercultural Engagement Distinction
+
+       1. The Faculty offers the option for students to participate in the Global &
+          Intercultural Engagement Distinction. This distinction does not form part of
+          the regular curriculum.
+       2. Students admitted to one of the Faculty’s degree programmes can participate
+          in the Global & Intercultural Engagement Distinction if they timely enroll for
+          the workshop Developing Intercultural Competence.
+       3. The distinction has a total student workload of 30 ECTS credit points. The
+          GIED Rules and Regulations are applicable to the different components of
+          the Global & Intercultural Engagement Distinction. The regulations can be
+          found on the Student Portal.
+       4. The results and marks do not count towards the awarding of an honours
+          predicate for the degree programme.
+       5. The Diploma Supplement that accompanies the degree certificate will also
+          list the results gained in the Global & Intercultural Engagement Distinction.
+*GIED will be offered by FSE as a pilot from 2022-2025, with possible extension beyond this period.
+Category 1 of the GIED-programme, which is the starting point, will be offered once per semester to
+students, starting in April 2023. Both BSc and MSc students from any of FSE programmes can
+participate. The first 20 students to register will be offered a spot in the programme after submitting
+their motivation letter to the GIED Brightspace environment.
+
+
+
+
+                                                                                                          33
+Section 9 Examinations of the degree programme
+
+    Article 9.1 General
+
+    1. Each of the degree programme’s course units is assessed by means of an
+       examination.
+
+    2. An examination can comprise a number of partial exams. The results of
+       these partial exams together determine the examination result.
+
+    3. The examination assesses students’ academic development and mastery of
+       the learning outcomes of the course unit.
+
+    4. Assessment is expressed in whole and half numbers greater than or equal to
+       1 or less than or equal to 10, or by the qualifications ‘Pass’ (P) or ‘Fail’ (F). A
+       course unit is passed when a mark of at least 6 is achieved or when the
+       qualification ‘Pass’ (P) is awarded. The mark 5.5 is not awarded.
+
+
+    Article 9.2 Participation in examinations
+
+    A student who registers for a course unit in the degree programme in
+    accordance with Article 3.7 of the OER is automatically registered for the
+    examination for that course unit.
+
+
+    Article 9.3 Compulsory order of examinations
+
+    The examinations for some course units may not be taken before the exams of
+    certain other course units have been passed. Appendix III (first year of the
+    degree programme) and Appendix IV (second and third years of the degree
+    programme) to these Regulations provide an overview of course units to which
+    this stipulation applies.
+
+
+    Article 9.4 Examination frequency and periods
+
+    1. There will be an opportunity to sit the examinations for the course units
+       listed in Articles 4.1 and 7.1 at least twice per academic year.
+
+    2. The periods in which examinations can be sat are listed via a link in OCASYS
+       to the schedules. Partial exams can also be taken outside the period
+       indicated.
+
+
+                                                                                         34
+3. Practicals organised by the degree programme, as listed in Appendices III
+   and IV, will be offered at least once a year. Students will be offered the
+   opportunity to participate in the practicals once a year.
+
+4. Contrary to the provisions of Article 9.4.1, for course units which are not
+   taught in a specific academic year, standard examination opportunities will
+   be offered in that same year.
+
+5. Contrary to the provisions of Article 9.4.1, for course units which are taught
+   for the last time in a specific academic year, standard examination
+   opportunities will be offered in the following year.
+
+6. Students are not allowed to take part in an examination of a course unit they
+   have already passed. Students can request the Board of Examiners for an
+   exception to this rule if they can specify a higher grade is required for the
+   application procedure of a specific MSc-programme or a specific job
+   application. The Board of Examiners can set further conditions in its Rules
+   and Regulations.
+
+7. If a student has fulfilled his or her effort obligation to complete all the
+   compulsory parts of a course unit but has still not passed, then the examiner
+   may give him or her the opportunity to take a supplementary or replacement
+   test.
+
+
+Article 9.5 – Assessment of placement or research assignment
+
+A placement or research assignment is assessed by an internal, first, examiner
+who is appointed by the Board of Examiners. External, on-site, supervisors may
+be appointed as second examiner by the Board of Examiners. The criteria for
+appointing examiners are set out in the Rules and Regulations of the Boards of
+Examiners.
+
+
+Article 9.6 – Thesis/Bachelor project
+
+1. In general, each thesis is associated with a single University of Groningen
+   degree programme. Full or partial exemptions for a degree programme’s
+   thesis may be granted by the Board of Examiners on the basis of a thesis
+   written for another degree programme.
+
+2. Each thesis is assessed by at least two examiners.
+
+
+                                                                                   35
+3. The thesis is stored by the Faculty Board for a period of seven years.
+
+4. Students will be given the opportunity to write a final-year thesis at least
+   twice per academic year.
+
+5. The period(s) during which students can write theses will be published in
+   OCASYS.
+
+6. If by the end of the period referred to in Article 9.6.5 the examiner(s) is/are
+   of the opinion that the thesis cannot be awarded a pass mark, the student
+   will be given one opportunity to remedy the work in order to be awarded a
+   pass mark within a time frame defined by the degree programme.
+
+7. Students must satisfy the following requirements in order to qualify for
+   supervision and assessment of the final-year thesis for the degree
+   programme:
+
+   -   they must have completed all course units from the first year of their
+       degree programme;
+   -   they must have earned at least 60 ECTS credit points from the second
+       and third years of the degree programme;
+   -   their Bachelor’s specialization must have been approved by the Board of
+       Examiners.
+
+8. The Board of Examiners is the only body that can deviate from the
+   provisions of this Article at the written request of a student.
+
+
+Article 9.7 Mode of assessment
+
+1. The examinations are conducted in the manner stated in OCASYS.
+
+2. In situations of force majeure, when it is not reasonably possible to conduct
+   examinations in the manner stated in OCASYS, alternative modes of
+   instruction and assessment may temporarily be used. This is on condition
+   that the prescribed learning outcomes are still achieved upon completion of
+   the degree programme.
+
+3. At the student’s request, the Board of Examiners may allow an examination
+   to be taken in a form different from that stated in Article 9.7.1.
+
+
+
+
+                                                                                  36
+4. For each written examination, representative questions will be available to
+     practice.
+
+
+Article 9.8 – Request for an additional examination opportunity
+
+1.   Students may submit a request for an additional examination opportunity to
+     the Board of Examiners.
+
+2. Such a request may be granted if the student in question failed the relevant
+     exam due to extraordinary circumstances and if not granting the request for
+     an additional examination opportunity would result in unacceptable study
+     delay.
+
+3. The following criteria apply to granting a request for an additional
+     examination opportunity for the last course unit in the degree programme:
+     -  the course unit in question must be the last course unit that must be
+        passed;
+     - not granting the request for an additional examination opportunity
+        would result in study delay of at least one semester;
+     - the examinee must have participated in the last two regular exam
+        opportunities for the course unit in question.
+
+
+Article 9.9 Competent Board of Examiners regarding electives
+offered by other degree programmes
+
+1.   A request to take an elective at another degree programme must be
+     approved by the Board of Examiners of the student’s own degree
+     programme.
+
+2.   The examination for an elective from another degree programme, and
+     requests for alternative examination regulations, are subject to the authority
+     of the Board of Examiners of that other degree programme. Article 10.2
+     applies.
+
+
+Article 9.10 Examinations and performance disabilities
+
+1.   Students with a performance disability will be given the opportunity to take
+     examinations in a form that will compensate as far as possible for their
+     individual disability. If necessary, the Board of Examiners will seek expert
+
+
+
+                                                                                 37
+     advice from a student counsellor of the Student Service Centre (SSC) before
+     making a decision.
+
+2.   With regard to examinations for electives taken at other degree programmes
+     by students with a performance disability, the Board of Examiners of the
+     degree programme that sets the examination will comply with the provisions
+     permitted by the Board of Examiners of the degree programme for which the
+     student is registered.
+
+
+Article 9.11 Oral examinations
+
+1. Unless the Board of Examiners decides otherwise, an oral examination may
+     only be taken by one student at a time. A second examiner may attend the
+     oral examination at the request of the student or the examiner.
+
+2. An oral examination is attended by an independent observer with sufficient
+     knowledge of the content of the examined topic(s).
+
+3. Oral examinations are public, unless the Board of Examiners or the relevant
+     examiner stipulates otherwise, or the student objects to the public nature of
+     the examination due to extraordinary circumstances. The examiner can
+     further specify this in OCASYS.
+
+
+Article 9.12 Marking of examinations and publication of marks
+
+1. After an oral examination, the examiner will assess the examination
+     immediately and submit the result to the Faculty’s administration
+     department (SSE). The examiner provides the student with a statement on
+     request.
+
+2. The examiner will mark a written examination within 10 working days of the
+     day on which it was taken, and will provide the Faculty’s administration
+     department (SSE) with the necessary details for registration of the result in
+     Progress. In the event of unforeseen circumstances, as a result of which the
+     period of ten working days is not reasonably feasible, this period can be
+     extended by a maximum of five working days. The programme
+     director/programme management must grant permission for this.
+     Extending the period is not possible in Block 2b, nor for course units in the
+     first year of the degree programme.
+
+3. Written examinations for first-year course units specified by the Educational
+     Management Team will be assessed within 5 working days of the day on
+
+                                                                                 38
+     which they were taken. The examiner will provide the Faculty’s
+     administration department (SSE) the necessary details of the result for
+     registration and determination whether a binding (negative) study advice is
+     in order.
+
+4. The examiner will assess practicals within 10 working days of the day on
+     which the course unit must be completed, with the exception of practicals for
+     which the Board of Examiners has set an alternative assessing period of no
+     more than one month. The examiner will provide the Faculty’s
+     administration department (SSE) with the necessary details for registration
+     of the result.
+
+5. If an examination is taken in a form other than oral, written or via a
+     practical, the Board of Examiners will determine in advance how and when
+     students will receive written confirmation of the result.
+
+6. Students can lodge an appeal against the results of an examination with the
+     Central Portal for the Legal Protection of Student Rights (CLRS) within 6
+     weeks of the date on which the result was announced.
+
+
+Article 9.13 Validity of course units
+
+1.   Examinations that have been passed remain valid indefinitely.
+
+     a. Contrary to the provision mentioned in Article 9.13.1, the Board of
+     Examiners may decide that the validity of a passed examination is limited.
+     The Board of Examiners can only decide a passed examination is no longer
+     valid if the student’s knowledge, understanding or skills are demonstrably
+     outdated.
+
+     b. In the event of extraordinary personal circumstances, the validity term
+     will be extended for the period during which the student in question is
+     receiving support from the Graduation Fund.
+
+2.   Partial examinations and assignments passed within a course unit that has
+     not been successfully completed will lapse at the end of the academic year in
+     which they were passed, unless otherwise indicated in Ocasys.
+
+
+
+
+                                                                                  39
+Article 9.14 Right of inspection
+
+1. On request, students have the right to inspect their marked work during a
+   period of four weeks after the results of a written examination have been
+   announced. If the student makes use of this opportunity, they will be
+   provided (upon request) with a copy of the work.
+
+2. Within the time frame stipulated in Article 9.14.1, any participant in the
+   examination may request to be allowed to peruse the examination paper and
+   the assessment criteria.
+
+3. The Board of Examiners can determine that this inspection or perusal will
+   take place at a certain place and time. This inspection and perusal may be
+   organized collectively. Students who can show that they were prevented by
+   force majeure from attending at the indicated places and time will be offered
+   another opportunity, if possible within the period stated in Article 9.14.1.
+
+
+Article 9.15 Exemptions
+
+1. At a student’s request, the Board of Examiners, having discussed the matter
+   with the examiner in question, may grant exemption from an examination
+   (or part thereof) on the basis of results obtained earlier (possibly elsewhere),
+   if the student:
+   a. has completed part of a university or higher vocational degree
+        programme, in the Netherlands or abroad, that is equivalent in content
+        and level, or
+   b. can demonstrate by work experience that they have sufficient knowledge
+        and skills with respect to the course unit in question.
+
+2. The validity period of exemptions granted for course units or parts thereof is
+   identical to that of examination results.
+
+3. The Board of Examiners may also grant exemption from participation in
+   (parts of) practical exercises. Such exemptions can be granted, for example,
+   based on recognized conscientious objections. In such cases, the Board of
+   Examiners will determine the way the practical exercise has to be performed.
+
+4. Article 10.2 applies to granting exemptions.
+
+
+
+
+                                                                                 40
+ Article 9.16 Board of Examiners and examiners
+
+ 1.   The Board of Examiners is the independent body that determines whether
+      individual students have the knowledge, understanding and skills required
+      to be awarded a degree.
+
+ 2.   The Faculty Board appoints the members of the Board of Examiners on the
+      basis of their expertise in the field of the degree programme (or cluster of
+      degree programmes) in question.
+
+ 3.   The Board of Examiners must comprise at least:
+         a. one member who is a lecturer affiliated with the degree programme
+            (or to one of the degree programmes belong to the cluster of degree
+            programmes); and
+         b. one member from outside the degree programme (or one of the
+            degree programmes that belong to the cluster of degree programmes).
+
+ 4.   Members of the Faculty Board or other people who have financial
+      responsibilities within the institution may not be appointed as members of
+      the Board of Examiners.
+
+ 5.   The Board of Examiners appoints examiners to set examinations and
+      determine the results.
+
+ 6.   The Board of Examiners must set out rules in the Rules and Regulations of
+      the Board of Examiners for assessing and determining the results of
+      examinations and final assessments.
+
+
+Article 9.17 Cheating and plagiarism
+
+1.    Cheating is an act or omission by a student that partly or wholly hinders the
+      forming of a correct assessment of their – or another’s - knowledge,
+      understanding and skills.
+
+2.    Cheating also includes committing plagiarism, copying someone else’s or
+      one’s own knowledge, insights and skills without correctly acknowledging the
+      source.
+
+3.    The assessment of theses and written assignments requires a plagiarism
+      check to be performed, by means of a plagiarism scanner assessed by the
+      University. Students are individually responsible for maintaining academic
+      integrity.
+
+
+                                                                                      41
+4.    If a student cheats, the Board of Examiners may exclude that student from
+      participation in one or more examinations or final assessment for a
+      maximum of one year.
+
+5.    In the event of serious cheating, the Board of Examiners can advise the Board
+      of the University to permanently terminate a student’s registration in the
+      degree programme.
+
+6.    In any case, the following can be considered to be serious cheating:
+       a impersonating someone else during the exam
+       b being represented by someone else during the exam
+       c obtaining the assignments and/or model answers for the relevant
+          examination before the time when the examination takes place
+       d fabricating and/or falsifying survey and/or interview answers and/or
+          research data
+
+7.    The Board of Examiners sets out its course of action in the event of cheating
+      in its Rules and Regulations.
+
+
+ Article 9.18 Invalid examination
+
+ In the event of irregularities with regard to an examination that are so serious
+ that an accurate assessment of the examinee’s knowledge, understanding and
+ skills cannot be made, the Board of examiners may declare the examination
+ invalid for either an individual examinee or a group of examinees.
+
+
+ Article 9.19 Termination of enrolment (Iudicium Abeundi)
+
+ 1.   In extraordinary cases of reprehensible behaviour or statements made by a
+      student, the Board of the University, on the recommendation of the Board of
+      Examiners or the Faculty Board, terminate that student’s registration.
+
+ 2.   The Board of the University will not make a decision as referred to in the
+      first paragraph until after the student in question has been given an
+      opportunity to put their case forward, any interests of the student and of the
+      institution have been carefully assessed and it has been proven reasonable to
+      assume that the student’s behaviour and/or statements prove that they are
+      unsuitable for one or more of the professions for which they are being
+      trained in their degree programme, or for the practical preparation for the
+      profession. In such cases the Faculty Board, the Board of Examiners and the
+      Board of the University will follow the Protocol Iudicium Abeundi (protocol
+
+                                                                                      42
+     for termination of registration) as adopted by the Dutch Federation of
+     University Medical Centres on 1 November 2010.
+
+3.   The provisions in the University of Groningen Regulations for registration
+     and Tuition fees apply.
+
+
+
+
+                                                                                  43
+Section 10 Final assessment of the degree programme
+
+
+    Article 10.1 Final assessment
+
+    1. The degree programme is concluded with a final assessment.
+
+    2. On the condition that the student’s study programme has been approved, the
+       Board of Examiners will determine the result of the final assessment as soon
+       as the student has passed all the required examinations. The Board of
+       Examiners may define terms to this end. The result of the final assessment
+       indicates that the students has achieved the necessary academic
+       development. The Board of Examiners will issue a degree certificate to this
+       effect.
+
+    3. If a student exceeds the relevant deadlines for approval of the study
+       programme referred to under 2, this may cause the Board of Examiners to
+       schedule the examination for a later date. This date may then be in the
+       academic year following the year in which the last examination was passed.
+
+    4. Before the final assessment can be determined, the Board of Examiners may
+       itself decide to test the student’s knowledge of one or more course units or
+       components of the degree programme, if and in as much as the marks for
+       these course units provide a reason for doing so.
+
+    5. By determining the result of the final assessment, the Board of Examiners
+       also commits itself to a speedy processing of the degree certificate ceremony.
+
+    6. If a student wishes to postpone their date of graduation due to additional
+       examinations that they still need to sit, the student must submit this request
+       to the Board of Examiners within two weeks after the date of the final
+       assessment has been set.
+
+    7. The graduation date is the date on which the final assessment is passed, as
+       determined by the Board of Examiners in accordance with the provisions of
+       Article 10.1.2, and not the date on which the degree certificate is presented to
+       the student.
+
+
+
+
+                                                                                      44
+Article 10.2 Conditions for awarding a University of Groningen
+degree
+
+1. Students can only be awarded a Bachelor’s degree certificate for the degree
+     programme if at least half of the programme was followed at the Faculty of
+     Science and Engineering during the student’s period of registration as a
+     Bachelor’s student at the University of Groningen.
+
+2. Students who wish to obtain a second Bachelor’s degree within the Faculty of
+     Science and Engineering can use a maximum of 120 ECTS from their first
+     Bachelor programme in the second study programme they submit at the
+     Board of Examiners for approval. Of these 120 ECTS a maximum of 60 ECTS
+     can be obtained in the second and third years of the degree programme.
+     Board of Examiners can specify these conditions for obtaining a second
+     Bachelor’s degree in their Rules and Regulations.
+
+3. For Double Degree Bachelor’s degree programmes offered together with an
+     institution abroad, at least one quarter of the programme must have been
+     followed at the University of Groningen during the student’s period of
+     registration as a Bachelor’s student at the University of Groningen.
+
+
+Article 10.3 Degree certificate
+
+1.   The student shall receive a certificate issued by the Board of Examiners as
+     proof that they have passed the final examination. Even if a student
+     successfully completes more than one specialization within the degree
+     programme, they will only receive one degree certificate. Article 10.2 applies.
+
+2.   The Board of Examiners will issue an International Diploma Supplement
+     with each degree certificate.
+
+3.   The Major and Minor followed will be stated in the Diploma Supplement
+     that accompanies the Bachelor’s degree certificate.
+
+4.   If applicable, the results of the Bachelor’s Honours Programme are listed in
+     the Diploma Supplement accompanying the Bachelor’s degree certificate.
+
+
+Article 10.4 Degree
+
+1. A student who has satisfied all the requirements of the final assessment shall
+     be awarded the degree of ‘Bachelor of Science’.
+
+
+                                                                                  45
+2. Details of the degree awarded are indicated on the degree certificate.
+
+
+Article 10.5 Cum laude/summa cum laude honours predicate
+
+1. The Board of Examiners assesses whether the Bachelor’s degree should be
+   awarded an honours predicate.
+
+2. To the Bachelor’s degree programme certificate the following conditions
+   apply. For the predicate ‘Cum Laude’:
+    a) The mark for the Bachelor’s project must be at least 8.0, and
+    b) The weighted average (not rounded off) for all course units within the
+       examination programme approved by the Board of Examiners, excluding
+       the Bachelor’s project, must be at least 8.0.
+
+    For the predicate ‘Summa Cum Laude’:
+    a) The mark for the Bachelor’s project must be at least 9.0, and
+    b) The weighted average (not rounded off) for all course units within the
+       examination programme approved by the Board of Examiners, excluding
+       the Bachelor’s project, must be at least 9.0.
+
+3. No honours predicate is awarded if the value of the exemptions in ECTS
+   credit points is greater than or equal to half of the total number of ECTS for
+   the degree programme. This stipulation does not apply to Double Degree
+   programmes.
+
+4. Honours predicates may only be awarded if the examinations for the course
+   units were taken only once.
+
+5. An honours predicate will only be awarded if no course unit has been
+   awarded a mark of less than 7.0.
+
+6. No honours predicates will be awarded if a decision by the Board of
+   Examiners has been taken to the effect that a student is no longer eligible for
+   an honours predicate because cheating/plagiarism has been detected.
+
+7. In extraordinary cases, the Board of Examiners may depart from the
+   provisions set out in Articles 10.5.2 to 10.5.6.
+
+
+
+
+                                                                                46
+Article 10.6 Assessment Plan
+
+The Assessment Plan is approved by the Faculty Board. This Assessment Plan is
+an appendix to the TER and covers the following topics:
+1. the learning outcomes of the degree programme;
+2. the course units of the degree programme with their student workload in
+   ECTS, and the learning outcomes of each course unit;
+3. the relationship between course units and learning outcomes;
+4. the assessment mode to be used and the test moments for each course unit;
+5. the test design and assessment procedures and assessment criteria used
+6. those responsible for implementing the various components of the
+   assessment policy;
+7. the periodic evaluation method.
+
+
+
+
+                                                                           47
+Section 11 Study progress supervision
+
+
+    Article 11.1 Study progress administration
+
+    1.   The Faculty Board registers individual study results achieved by the
+         students.
+
+    2.   The Faculty’s administration department (SSE) upon a student’s request will
+         provide authenticated overviews of their results.
+
+
+    Article 11.2 Study progress supervision
+
+    The Faculty Board will organize the introduction and the tutoring for students
+    registered for the degree programme, partly for the purpose of their progress
+    during the course of study and partly to gain an impression of potential study
+    options within and outside the degree programme.
+
+
+
+
+                                                                                     48
+Section 12 Transitional and final provisions
+
+
+    Article 12.1 Transitional provisions
+
+    The transitional provisions are listed in Appendix VII.
+
+
+    Article 12.2 Amendments
+
+    1. Any amendments to these Regulations will, following a recommendation by
+       and/or upon the approval of the Programme Committee and in consultation
+       with – and where necessary upon the approval of - the Faculty Council, be
+       confirmed by the Faculty Board in a separate decree.
+
+    2. Any amendments to these Regulations will not apply to the current academic
+       year, unless it may reasonably be assumed that the amendment in question
+       will not harm the interests of students.
+
+    3. In addition, an amendment may not influence any other decision concerning
+       a student taken by the Board of Examiners under these Regulations to the
+       detriment of that student.
+
+
+    Article 12.3 Publication
+
+    1. The Faculty Board will duly publish these Regulations, any rules and
+       guidelines formulated by the Board of Examiners, and any amendments to
+       these documents.
+
+    2. The documents referred to in Article 12.3.1 are digitally accessible on the
+       Faculty’s website via the Student Portal.
+
+
+    Article 12.4 Evaluation
+
+    The Faculty Board will ensure that the TER is regularly evaluated, assessing at
+    least – for the purpose of monitoring and if necessary adapting the student
+    workload – the amount of time students need to complete their duties as set out
+    therein.
+
+
+
+
+                                                                                     49
+Article 12.5 Legal validity
+
+The Dutch text of the model Teaching and Examination Regulations of the
+Department of Legal Affairs shall be binding in the event of differences of
+opinion on the interpretation of the Dutch or English version of these Teaching
+and Examinations Regulations.
+
+
+Article 12.6 Appeal procedure
+
+Appeals against decisions made by an examiner or a Board of Examiners may be
+filed with the Board of Appeal for Examinations through the Central Portal for
+the Legal Protection of Student Rights: www.rug.nl/clrs.
+
+
+Article 12.7 Date of commencement
+
+These Regulations shall take effect on 1 September 2024.
+
+
+
+
+                                                                              50
+
